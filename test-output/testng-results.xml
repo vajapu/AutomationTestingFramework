@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-02-13T23:57:41 IST" name="Suite" finished-at="2020-02-14T00:00:45 IST" duration-ms="184846">
+    <groups>
+    </groups>
+    <test started-at="2020-02-13T23:57:41 IST" name="Test" finished-at="2020-02-14T00:00:45 IST" duration-ms="184846">
+      <class name="com.Selenium.Test.tests.HomePageTest">
+        <test-method is-config="true" signature="setUp(java.lang.reflect.Method)[pri:0, instance:com.Selenium.Test.tests.HomePageTest@8909f18]" started-at="2020-02-13T23:57:41 IST" name="setUp" finished-at="2020-02-13T23:57:41 IST" duration-ms="25" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.Selenium.Test.tests.HomePageTest.testURL2()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="setUp(java.lang.reflect.Method)[pri:0, instance:com.Selenium.Test.tests.HomePageTest@8909f18]" started-at="2020-02-13T23:57:41 IST" name="setUp" finished-at="2020-02-13T23:57:41 IST" duration-ms="25" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.Selenium.Test.tests.HomePageTest.testURL()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testURL2()[pri:0, instance:com.Selenium.Test.tests.HomePageTest@8909f18]" started-at="2020-02-13T23:57:41 IST" name="testURL2" finished-at="2020-02-14T00:00:45 IST" duration-ms="184580" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testURL2 -->
+        <test-method signature="testURL()[pri:0, instance:com.Selenium.Test.tests.HomePageTest@8909f18]" started-at="2020-02-13T23:57:41 IST" name="testURL" finished-at="2020-02-13T23:57:51 IST" duration-ms="10069" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testURL -->
+        <test-method is-config="true" signature="handleTestMethodName()[pri:0, instance:com.Selenium.Test.tests.HomePageTest@8909f18]" started-at="2020-02-13T23:57:51 IST" name="handleTestMethodName" finished-at="2020-02-13T23:57:51 IST" duration-ms="84" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- handleTestMethodName -->
+        <test-method is-config="true" signature="handleTestMethodName()[pri:0, instance:com.Selenium.Test.tests.HomePageTest@8909f18]" started-at="2020-02-14T00:00:45 IST" name="handleTestMethodName" finished-at="2020-02-14T00:00:45 IST" duration-ms="97" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- handleTestMethodName -->
+      </class> <!-- com.Selenium.Test.tests.HomePageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
